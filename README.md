@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello 😄, I'm Toni Tannoury</h1>
-<h3 align="center">A results oriented web developer from Lebanon</h3>
+<h3 align="center">A results' oriented web developer from Lebanon</h3>
 <img align="center" src="https://github.com/ToniTannoury/ToniTannoury/assets/138028340/9e0ade8c-210a-412c-9928-55d80888c3f4" width="100%" height="450" alt="coding">
 
 <br/>
