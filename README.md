@@ -5,6 +5,7 @@
 <img align="center" src="https://github.com/ToniTannoury/InterCollab/assets/138028340/cc5ef9cc-7a09-449c-bf27-7ed945c7c4a3" width="100%" height="450" alt="coding">
 
 <br/>
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ToniTannoury" alt="Toni Tannoury" /></a> </p>
 
@@ -86,7 +87,6 @@
 
 <a href="https://www.linkedin.com/in/toni-tannoury-8a2012294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan emad" height="30" width="40" /></a>
 </p>
-<h2>My Stats</h2>
 
 # 📊 GitHub Stats:
 
