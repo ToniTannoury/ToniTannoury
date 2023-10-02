@@ -22,7 +22,7 @@
 - 🧙 Fun Fact ! I believe that developers are the Wizzards of the 21st century
 
 
-<h3 align="left">Languages and Tools:</h3>
+# <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="CSS3" width="40" height="40"/>
@@ -82,7 +82,7 @@
 </p>
 
 
-<h3 align="left">Reach out and connect with me</h3>
+# <h3 align="left">Reach out and connect with me</h3>
 
 
 <a href="https://www.linkedin.com/in/toni-tannoury-8a2012294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan emad" height="30" width="40" /></a>
