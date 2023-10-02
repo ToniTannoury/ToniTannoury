@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 😄, I'm Toni Tannoury</h1>
 <h3 align="center">A results oriented web developer from Lebanon</h3>
-<img align="center" src="https://github.com/ToniTannoury/InterCollab/assets/138028340/cc5ef9cc-7a09-449c-bf27-7ed945c7c4a3" width="100%" height="450" alt="coding">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" height="450" alt="coding">
 
 <br/>
 <br/>
