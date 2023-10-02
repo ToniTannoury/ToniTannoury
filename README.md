@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ToniTannoury" alt="Toni Tannoury" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ToniTannoury" alt="Toni Tannoury" /></a> </p>
 
 - 🔭 My latest project is [InterCollab](https://github.com/ToniTannoury/InterCollab)
 
