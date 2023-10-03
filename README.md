@@ -11,7 +11,7 @@
 
 - 🔭 My latest project is [InterCollab](https://github.com/ToniTannoury/InterCollab)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ToniTannoury](https://github.com/ToniTannoury)
+- 👨‍💻 All of my projects are available at [https://github.com/ToniTannoury](https://github.com/ToniTannoury?tab=repositories)
 
 - 💻 I'm currently learning more about Next.js and GraphQL 
 
